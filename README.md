@@ -1,0 +1,2 @@
+# Godot Windows Installer
+I made this repository so I could keep track of installers I made so I can install godot using a normal windows installer. I will try and update the repo with newer versions, but let me know in the issues if you need a certain version creating. I will also upload the iss file with it so you can make your own if you want. I make the executables using [Inno Setup](https://github.com/jrsoftware/issrc)
